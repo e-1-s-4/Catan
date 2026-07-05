@@ -1,6 +1,6 @@
 # Catan — Single-File Web Edition
 
-Play here: https://qeuph.github.io/Catan/
+Play here: https://e-1-s-4.github.io/Catan/
 
 This project is a polished, browser-based Catan adaptation built in a **single `index.html` file** (no build step required).
 
